@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-Electron-47848f?style=flat-square&logo=Electron&logoColor=white" />
 
 </p>
-
+<!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -50,3 +50,4 @@ JSON                     3 mins              █░░░░░░░░░░�
 VS Code                  1 hr 7 mins         █████████████████████████   100.0%
 
 ```
+<!--END_SECTION:waka-->
