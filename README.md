@@ -35,21 +35,48 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 692 Contributions in the Year 2021
+ > 
+> 📦 82.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 73 Public Repositories 
+ > 
+> 🔑 32 Private Repositories  
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/WuXi
+⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               34 mins             ████████████░░░░░░░░░░░░░   51.41% 
-Go                       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
-LESS                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               24 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+C#                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Go                       11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+
+ Last Updated on 29/11/2021
 <!--END_SECTION:waka-->
