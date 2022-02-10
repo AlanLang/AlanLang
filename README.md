@@ -34,6 +34,10 @@
 
 </p>
 
+---
+### My GitHub Contributions    
+![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
