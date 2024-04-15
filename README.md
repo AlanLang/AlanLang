@@ -39,6 +39,8 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C612%20hrs%2024%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -59,5 +61,5 @@ Mac                      30 hrs 36 mins      ███████████�
 ```
 
 
- Last Updated on 14/04/2024 21:07:06 UTC
+ Last Updated on 15/04/2024 18:34:10 UTC
 <!--END_SECTION:waka-->
