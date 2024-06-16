@@ -39,6 +39,27 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%201%20min-blue)
 
- Last Updated on 15/06/2024 18:34:39 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               16 hrs 15 mins      ████████████████████░░░░░   80.77 % 
+Rust                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 7 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      20 hrs 7 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/06/2024 18:34:49 UTC
 <!--END_SECTION:waka-->
