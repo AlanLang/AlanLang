@@ -39,26 +39,6 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               11 hrs 29 mins      ███████████████████░░░░░░   74.47 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 16 mins      ██████████████████████░░░   86.05 % 
-Claude Code              2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-
-💻 Operating System: 
-Mac                      15 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 19:06:26 UTC
+ Last Updated on 23/05/2026 18:50:09 UTC
 <!--END_SECTION:waka-->
