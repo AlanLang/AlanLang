@@ -39,7 +39,7 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C943%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C948%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,21 +47,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
-Java                     4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               10 hrs              ██████████░░░░░░░░░░░░░░░   41.24 % 
+Java                     6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 14 mins      ██████████████████████░░░   88.90 % 
-Claude Code              1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Unknown Editor           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+VS Code                  20 hrs 39 mins      █████████████████████░░░░   85.21 % 
+Claude Code              2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Unknown Editor           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 💻 Operating System: 
-Mac                      21 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 20:01:23 UTC
+ Last Updated on 02/06/2026 19:46:28 UTC
 <!--END_SECTION:waka-->
