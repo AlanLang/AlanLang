@@ -47,20 +47,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.10 % 
-JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Java                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+TypeScript               1 hr 22 mins        ██████████████░░░░░░░░░░░   54.97 % 
+JSON                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       ██████████████░░░░░░░░░░░   54.98 % 
-Claude Code              2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
+Claude Code              1 hr 47 mins        ██████████████████░░░░░░░   71.69 % 
+VS Code                  42 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 19:13:57 UTC
+ Last Updated on 26/06/2026 19:07:33 UTC
 <!--END_SECTION:waka-->
