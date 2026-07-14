@@ -39,7 +39,7 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C048%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C055%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,20 +47,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.56 % 
-Java                     6 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
-Markdown                 3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+TypeScript               10 hrs 57 mins      ████████████░░░░░░░░░░░░░   48.95 % 
+Java                     5 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Markdown                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 1 min        █████████████████░░░░░░░░   68.68 % 
-VS Code                  6 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
+Claude Code              15 hrs 14 mins      █████████████████░░░░░░░░   68.10 % 
+VS Code                  7 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.90 % 
 
 💻 Operating System: 
-Mac                      20 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 18:59:28 UTC
+ Last Updated on 14/07/2026 18:51:47 UTC
 <!--END_SECTION:waka-->
