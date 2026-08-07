@@ -39,49 +39,10 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C920%20hrs%2035%20mins-blue?style=flat)
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               4 hrs 32 mins       █████████████░░░░░░░░░░░░   51.31 % 
-Java                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-YAML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Less                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-
-🔥 Editors: 
-Claude Code              5 hrs 33 mins       ████████████████░░░░░░░░░   62.80 % 
-VS Code                  3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-
-💻 Operating System: 
-Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 15 mins (70.61%)
-
-✍️ 654 lines written by AI, 120 lines written by hand (84.5% AI-written)
-
-🔤 95,402,964 Input Tokens, 459,355 Output Tokens
-
-💵 $485.59 Estimated AI Cost This Week
-
-🧠 23 AI Sessions, 91 AI Prompts
-
-Opus                     757 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 84.5% of written lines came from AI
-📝 Concise Prompter — average 418 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 22.99% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%209%20mins-blue?style=flat)
 
 
- Last Updated on 07/08/2026 00:24:11 UTC
+ Last Updated on 07/08/2026 19:29:57 UTC
 <!--END_SECTION:waka-->
