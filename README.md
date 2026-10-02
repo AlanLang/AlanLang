@@ -49,25 +49,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-Other                    1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Markdown                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+TypeScript               1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Other                    1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Markdown                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.29 % 
-Codex Vscode             2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.09 % 
-VS Code                  1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Claude Code              2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
+Codex Vscode             2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
+VS Code                  1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
 
 💻 Operating System: 
-Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 28 mins (90.59%)
+⏱ AI Coding Time: 5 hrs 28 mins (91.35%)
 
 ✍️ 5,577 lines written by AI, 16 lines written by hand (99.71% AI-written)
 
@@ -91,5 +91,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/10/2026 22:50:20 UTC
+ Last Updated on 02/10/2026 22:27:36 UTC
 <!--END_SECTION:waka-->
