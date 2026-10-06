@@ -49,47 +49,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Other                    1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Markdown                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Other                    1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   37.71 % 
+Markdown                 53 mins             ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+HTML                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Swift                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
-Codex Vscode             2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
-VS Code                  1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Codex Vscode             1 hr 43 mins        ██████████████░░░░░░░░░░░   54.41 % 
+Claude Code              56 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+VS Code                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 
 💻 Operating System: 
-Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 28 mins (91.35%)
+⏱ AI Coding Time: 3 hrs 4 mins (97.12%)
 
-✍️ 5,577 lines written by AI, 16 lines written by hand (99.71% AI-written)
+✍️ 5,399 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,019,019 Input Tokens, 411,352 Output Tokens
+🔤 1,016,948 Input Tokens, 218,150 Output Tokens
 
-💵 $60.60 Estimated AI Cost This Week
+💵 $39.44 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 106 AI Prompts
+🧠 9 AI Sessions, 71 AI Prompts
 
-Glm                      2,868 lines         ███████████████████████░░   93.15 % 
-Opus                     126 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-GPT                      85 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      2,868 lines         █████████████████████████   99.20 % 
+Opus                     16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+GPT                      7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📄 Detailed Prompter — average 647 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.46% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 173 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 21:48:24 UTC
+ Last Updated on 06/10/2026 00:14:41 UTC
 <!--END_SECTION:waka-->
