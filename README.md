@@ -49,45 +49,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   37.71 % 
-Markdown                 53 mins             ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-HTML                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Swift                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Swift                    17 mins             ██████████░░░░░░░░░░░░░░░   40.56 % 
+Markdown                 15 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
+TypeScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 43 mins        ██████████████░░░░░░░░░░░   54.41 % 
-Claude Code              56 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-VS Code                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+VS Code                  24 mins             ███████████████░░░░░░░░░░   58.39 % 
+Codex Vscode             8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Claude Code              8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 
 💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (97.12%)
+⏱ AI Coding Time: 41 mins (100.0%)
 
-✍️ 5,399 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,038 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,016,948 Input Tokens, 218,150 Output Tokens
+🔤 307,014 Input Tokens, 104,971 Output Tokens
 
-💵 $39.44 Estimated AI Cost This Week
+💵 $22.64 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 71 AI Prompts
+🧠 2 AI Sessions, 18 AI Prompts
 
-Glm                      2,868 lines         █████████████████████████   99.20 % 
-Opus                     16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Glm                      2,868 lines         █████████████████████████   99.76 % 
 GPT                      7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 173 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 56 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 00:14:41 UTC
+ Last Updated on 06/10/2026 22:44:27 UTC
 <!--END_SECTION:waka-->
