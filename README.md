@@ -39,9 +39,9 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C013%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C014%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,47 +49,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.55 % 
-Markdown                 3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Vue                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               6 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.24 % 
+Markdown                 4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.33 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
-VS Code                  4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
-Codex Vscode             1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Claude Code              8 hrs 46 mins       ██████████████░░░░░░░░░░░   54.43 % 
+VS Code                  5 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.17 % 
+Codex Vscode             2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 
 💻 Operating System: 
-Mac                      9 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 12 mins (82.41%)
+⏱ AI Coding Time: 13 hrs 43 mins (86.7%)
 
-✍️ 2,555 lines written by AI, 88 lines written by hand (96.67% AI-written)
+✍️ 5,095 lines written by AI, 89 lines written by hand (98.28% AI-written)
 
-🔤 2,433,503 Input Tokens, 860,617 Output Tokens
+🔤 4,059,551 Input Tokens, 1,349,726 Output Tokens
 
-💵 $238.81 Estimated AI Cost This Week
+💵 $284.28 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 185 AI Prompts
+🧠 49 AI Sessions, 306 AI Prompts
 
-Glm                      2,868 lines         █████████████░░░░░░░░░░░░   51.21 % 
-Claude-Code              1,724 lines         ████████░░░░░░░░░░░░░░░░░   30.79 % 
-Opus                     849 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-DeepSeek                 149 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-GPT                      7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Opus                     3,153 lines         ██████████░░░░░░░░░░░░░░░   38.73 % 
+Glm                      2,868 lines         █████████░░░░░░░░░░░░░░░░   35.23 % 
+Claude-Code              1,724 lines         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+GPT                      244 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+DeepSeek                 149 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.67% of written lines came from AI
-📚 Verbose Prompter — average 2,515 characters per prompt
+🤖 AI-Driven — 98.28% of written lines came from AI
+📚 Verbose Prompter — average 1,676 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 8.17% of changed lines were hand-edited
+🚀 High AI Trust — 4.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 22:18:02 UTC
+ Last Updated on 13/10/2026 00:54:53 UTC
 <!--END_SECTION:waka-->
