@@ -39,9 +39,9 @@
 ![](https://raw.githubusercontent.com/AlanLang/AlanLang/master/assets/github-contribution-grid-snake.svg)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C024%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C025%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-313%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,47 +49,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Markdown                 6 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Other                    3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-CSS                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Gherkin                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 7 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+TypeScript               5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Other                    4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+CSS                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Gherkin                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 4 mins       ███████████████░░░░░░░░░░   61.00 % 
-VS Code                  6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Codex Vscode             3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Claude Code              17 hrs 16 mins      ████████████████░░░░░░░░░   65.57 % 
+VS Code                  6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Codex Vscode             2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 
 💻 Operating System: 
-Mac                      24 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 49 mins (89.48%)
+⏱ AI Coding Time: 23 hrs 47 mins (90.33%)
 
-✍️ 7,291 lines written by AI, 120 lines written by hand (98.38% AI-written)
+✍️ 7,265 lines written by AI, 105 lines written by hand (98.58% AI-written)
 
-🔤 6,332,433 Input Tokens, 1,879,857 Output Tokens
+🔤 6,780,013 Input Tokens, 1,910,644 Output Tokens
 
-💵 $319.42 Estimated AI Cost This Week
+💵 $297.24 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 462 AI Prompts
+🧠 103 AI Sessions, 499 AI Prompts
 
-Opus                     4,601 lines         ████████████░░░░░░░░░░░░░   47.40 % 
-Glm                      2,868 lines         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Claude-Code              1,724 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-GPT                      362 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-DeepSeek                 149 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Opus                     4,349 lines         ████████████████░░░░░░░░░   62.98 % 
+Claude-Code              1,724 lines         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+GPT                      680 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+DeepSeek                 149 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+GLM                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.38% of written lines came from AI
-📚 Verbose Prompter — average 1,815 characters per prompt
+🤖 AI-Driven — 98.58% of written lines came from AI
+📚 Verbose Prompter — average 1,973 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.52% of changed lines were hand-edited
+🚀 High AI Trust — 1.97% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 21:38:40 UTC
+ Last Updated on 16/10/2026 21:33:39 UTC
 <!--END_SECTION:waka-->
